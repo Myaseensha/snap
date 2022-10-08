@@ -1,0 +1,236 @@
+.right {
+    height: 400px;
+    display: flex;
+    margin-right: -1%;
+    margin-left: -1%;
+    margin-top: 75px;
+    background-color: yellow;
+}
+
+.main-intro {
+    display: flex;
+    margin-top: 70px;
+    height: 600px;
+    margin-left: -1%;
+    margin-right: -1%;
+    align-items: center;
+    margin-bottom: 0%;
+}
+
+.info {
+    height: 500px;
+    width: 400px;
+    margin-left: 100px;
+
+}
+
+.info-pic-box {
+    height: 500px;
+    width: 660px;
+    margin-left: 70px;
+    align-items: center;
+
+}
+
+.info-pic {
+    height: 75%;
+    margin-top: 60px;
+}
+
+.heading {
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 72px;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    margin-bottom: 20px;
+}
+
+.small {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 30px;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    margin: 10px;
+}
+
+body {
+    background-color: yellow;
+    margin: 0px;
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.main-intro-video {
+    display: flex;
+    height: 600px;
+    margin-left: -1%;
+    margin-right: -1%;
+    margin-bottom: 40px;
+    align-items: center;
+}
+
+.info-video {
+    display: flex;
+    height: 600px;
+    width: 350px;
+    margin-left: 120px;
+
+}
+
+video {
+    width: 350px;
+    object-fit: fill;
+}
+
+.video-content {
+    display: block;
+    height: 400px;
+    width: 800px;
+    margin-left: 50px;
+}
+
+.sb {
+    display: inline-block;
+    background-position: right 17px top 50%;
+    border-radius: 12px;
+    font-size: 18px;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    font-weight: 500;
+    padding: 12px 24px 12px 30px;
+    margin-right: 18px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 32px rgb(0 0 0 / 8%);
+}
+
+.pb {
+    display: inline-block;
+    background-position: right 17px top 50%;
+    border-radius: 12px;
+    font-size: 18px;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    font-weight: 500;
+    padding: 12px 24px 12px 18px;
+    margin-right: 18px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 32px rgb(0 0 0 / 8%);
+}
+
+.video-content-2 {
+    display: block;
+    height: 400px;
+    width: 600px;
+    margin-left: 120px;
+}
+
+.info-video-2 {
+    display: flex;
+    height: 600px;
+    width: 350px;
+    margin-left: 130px;
+
+}
+
+.last1 {
+    width: 650px;
+    height: 400px;
+    display: block;
+    align-items: center;
+    margin-left: 400px;
+
+}
+
+.last-img {
+    margin-left: 210px;
+    display: block;
+    height: 150px;
+    margin-bottom: 35px;
+}
+
+.text2-1 {
+    font-size: 18px;
+    font-family: "roboto";
+    font-weight: 600;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.text2-1-b {
+    font-size: 18px;
+    font-family: "roboto";
+    font-weight: 600;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.button-3 {
+    height: 47px;
+    border-radius: 50px;
+    border: 0px;
+    background-color: yellow;
+    margin-top: 30px;
+    margin-left: 55px;
+    align-items: center;
+
+}
+
+.button-3:hover {
+    margin-bottom: 30px;
+    box-shadow: rgb(116, 115, 115) 1.7px 1.9px 8px;
+    transition: box-shadow 0.60s;
+    transition: margin-bottom 0.60s;
+
+}
+
+.final {
+    height: 300px;
+    width: 105%;
+    background-color: white;
+    margin: 0%;
+}
+
+.main {
+    display: flex;
+    height: 300px;
+    margin-right: 200px;
+    margin-left: 250px;
+}
+
+.box-l {
+    display: inline;
+    font-size: 14px;
+    line-height: 5px;
+    font-family: 'Graphik', Helvetica, sans-serif;
+    margin-top: 50px;
+    margin-right: 20px;
+    width: 180px;
+    padding-left: 10px;
+    height: 220px;
+}
+
+h4 {
+    margin-bottom: 10px;
+}
+
+.laste {
+    display: flex;
+    align-items: center;
+    height: 70px;
+    width: 100%;
+    background-color: black;
+}
+h6{
+    color: white;
+    margin-left :50px ;
+    font-family: 'graphik',helvetica,sans-serif;
+    font-size: 13px;
+}
